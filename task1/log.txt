@@ -1,0 +1,11 @@
+commit 9084f53ad90a441c068505dad1c0c983442e9845
+Author: Edward <edperedelsky@gmail.com>
+Date:   Tue Apr 20 10:24:14 2021 +0300
+
+    status.txt
+
+commit 2e61d868451a409f56a24c60821a4845455dd8b1
+Author: Edward <edperedelsky@gmail.com>
+Date:   Tue Apr 20 10:21:30 2021 +0300
+
+    add .gitignore
